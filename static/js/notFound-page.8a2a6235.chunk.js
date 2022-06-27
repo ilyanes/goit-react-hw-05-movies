@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_05_movies=self.webpackChunkgoit_react_hw_05_movies||[]).push([[685],{9256:function(e,s,i){i.r(s);var t=i(184);s.default=function(){return(0,t.jsx)("h1",{children:"Russian warship ***"})}}}]);
+//# sourceMappingURL=notFound-page.8a2a6235.chunk.js.map
