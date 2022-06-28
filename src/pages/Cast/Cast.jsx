@@ -28,7 +28,7 @@ export default function Cast() {
                       `https://image.tmdb.org/t/p/original/${profile_path}`
                     }
                     alt={name}
-                    // style={{ width: '80px' }}
+                    width={120}
                   />
                 )}
                 <h4>Actor: {name.toUpperCase()}</h4>

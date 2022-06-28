@@ -48,7 +48,7 @@ export default function MovieDetailsPage() {
       <p>Additional information</p>
       <ul>
         <li>
-          <NavLink to={{ pathname: `/movies/${params.movieId}/casts` }}>
+          <NavLink to={{ pathname: `/movies/${params.movieId}/cast` }}>
             Cast
           </NavLink>
         </li>
