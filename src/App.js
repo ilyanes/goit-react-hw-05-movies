@@ -26,6 +26,14 @@ const NotFound = lazy(() =>
 );
 
 const App = () => {
+  //   const navigate = useNavigate();
+  //   const location = useLocation();
+  //   useEffect(() => {
+  //     if (location.pathname === "/") {
+  //       navigate("/main");
+  //     }
+  //   }, [location.pathname, navigate]);
+
   return (
     <div className="App">
       <Routes>
